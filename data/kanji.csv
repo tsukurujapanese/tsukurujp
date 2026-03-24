@@ -1,0 +1,31 @@
+kanji,reading,meaning,level,category
+一,いち,one,1,number
+一つ,ひとつ,one (thing),1,number
+二,に,two,1,number
+二つ,ふたつ,two (things),1,number
+三,さん,three,1,number
+三つ,みっつ,three (things),1,number
+四,よん,four,1,number
+四つ,よっつ,four (things),1,number
+五,ご,five,1,number
+五つ,いつつ,five (things),1,number
+山,やま,mountain,1,Noun
+川,かわ,river,1,Noun
+左,ひだり,left,1,Noun
+右,みぎ,right,1,Noun
+学校,がっこう,school,1,Noun
+小学校,しょうがっこう,primary school,1,Noun
+中学校,ちゅうがっこう,secondary school,1,Noun
+高校,こうこう,high school,1,Noun
+大学,だいがく,"university, college",1,Noun
+車,くるま,car,1,Noun
+出る,でる,to get out,1,Verb
+入る,はいる,to enter,1,Verb
+入れる,いれる,to put sth in,1,Verb
+見る,みる,"to see, watch",1,Verb
+生まれる,うまれる,to be born,1,Verb
+食べる,たべる,to eat,1,Verb
+作る,つくる,to make,1,Verb
+使う,つかう,to use,1,Verb
+話す,はなす,to speak,1,Verb
+来る,くる,to come,1,Verb
