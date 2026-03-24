@@ -1,14 +1,19 @@
 kanji,reading,meaning,level,category
 一,いち,one,1,number
 一つ,ひとつ,one (thing),1,number
+一人,ひとり,one person,1,number
 二,に,two,1,number
 二つ,ふたつ,two (things),1,number
+二人,ふたり,two people,1,number
 三,さん,three,1,number
 三つ,みっつ,three (things),1,number
+三人,さんにん,three people,1,number
 四,よん,four,1,number
 四つ,よっつ,four (things),1,number
+四人,よにん,four people,1,number
 五,ご,five,1,number
 五つ,いつつ,five (things),1,number
+五人,ごにん,five people,1,number
 山,やま,mountain,1,Noun
 川,かわ,river,1,Noun
 左,ひだり,left,1,Noun
@@ -19,6 +24,9 @@ kanji,reading,meaning,level,category
 高校,こうこう,high school,1,Noun
 大学,だいがく,"university, college",1,Noun
 車,くるま,car,1,Noun
+目,め,eye,1,Noun
+耳,みみ,ear,1,Noun
+手,て,hand,1,Noun
 出る,でる,to get out,1,Verb
 入る,はいる,to enter,1,Verb
 入れる,いれる,to put sth in,1,Verb
