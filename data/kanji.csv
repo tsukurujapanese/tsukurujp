@@ -37,3 +37,23 @@ kanji,reading,meaning,level,category
 使う,つかう,to use,1,Verb
 話す,はなす,to speak,1,Verb
 来る,くる,to come,1,Verb
+病院,びょういん,hospital,2,Noun
+予約,よやく,reservation,2,Noun
+歯医者,はいしゃ,dentist,2,Noun
+お店,おみせ,shop,2,Noun
+お金,おかね,money,2,Noun
+駅,えき,station,2,Noun
+電車,でんしゃ,train,2,Noun
+車,くるま,car,2,Noun
+自転車,じてんしゃ,bike,2,Noun
+地下鉄,ちかてつ,underground,2,Noun
+歩く,あるく,to walk,2,Verb
+走る,はしる,to run,2,Verb
+書く,かく,to write,2,Verb
+読む,よむ,to read,2,Verb
+歌う,うたう,to sing,2,Verb
+行く,いく,to go,2,Verb
+帰る,かえる,to go back,2,Verb
+働く,はたらく,to work,2,Verb
+教える,おしえる,"to teach, tell",2,Verb
+勉強する,べんきょうする,to study,2,Verb
